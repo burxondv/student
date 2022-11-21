@@ -1,1 +1,1 @@
-# Student self-project
+# Student self-project | second simple project
